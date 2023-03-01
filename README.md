@@ -1,4 +1,4 @@
-# Finger Made Window Using Mediapipe
+# Finger Made Window Using Mediapipe 대학 캡스톤 과제
 
 **Mediapipe**를 이용한 유아용 놀이 교구
 
